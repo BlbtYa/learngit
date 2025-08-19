@@ -1,1 +1,1 @@
-Git is a diversion control system. 
+Git is free software distributed under the GPL. 
